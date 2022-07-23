@@ -1,4 +1,4 @@
-const fn = require('../fn');
+const fn = require('./fn');
 
 // Promise | Matchers ( resolves )
 
