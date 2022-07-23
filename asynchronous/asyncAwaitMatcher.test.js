@@ -1,4 +1,4 @@
-const fn = require('./fn');
+const fn = require('../fn');
 
 // Async Await | Matchers ( resolves )
 
